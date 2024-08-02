@@ -12,3 +12,6 @@ Masuk ke folder dengan perintah
   ```bash
   cp .env.example .env
 ```
+```bash
+    composer install
+```
