@@ -27,3 +27,6 @@ Masuk ke folder dengan perintah
 ```bash
     php artisan storage:link
 ```
+```bash
+    npm run dev
+```
