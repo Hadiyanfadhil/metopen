@@ -8,3 +8,7 @@ Masuk ke folder dengan perintah
 ```bash
   cd nama_projek
 ```
+ Copy .env.example menjadi .env kemudia edit database dan api key nya
+  ```bash
+  cp .env.example .env
+```
