@@ -24,3 +24,6 @@ Masuk ke folder dengan perintah
 ```bash
     php artisan migrate:fresh --seed
 ```
+```bash
+    php artisan storage:link
+```
