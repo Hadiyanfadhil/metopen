@@ -18,3 +18,6 @@ Masuk ke folder dengan perintah
 ```bash
     npm install
 ```
+```bash
+    php artisan key:generate
+```
