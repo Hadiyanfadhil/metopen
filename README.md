@@ -30,3 +30,6 @@ Masuk ke folder dengan perintah
 ```bash
     npm run dev
 ```
+```bash
+    php artisan serve
+```
