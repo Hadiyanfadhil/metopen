@@ -21,3 +21,6 @@ Masuk ke folder dengan perintah
 ```bash
     php artisan key:generate
 ```
+```bash
+    php artisan migrate:fresh --seed
+```
